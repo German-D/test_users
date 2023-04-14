@@ -8,7 +8,7 @@ from telebot import TeleBot, types
 # TODO: вставить свой токен
 TOKEN = 'тут_вставить_токен'
 bot = TeleBot(TOKEN, parse_mode='html')
-# утилита для генерации номеров кредитных карт
+# библиотека для генерации тестовых ФИО
 # указываем язык - русский
 faker = Faker('ru_RU') 
 
