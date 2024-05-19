@@ -40,7 +40,7 @@ python3 -m venv venv
 ``` markdown
 source venv/bin/activate
 ```
-Устанавливаем библиотеки
+4. Устанавливаем библиотеки
 
 ``` markdown
 python3 -m pip install pyTelegramBotAPI
@@ -50,7 +50,7 @@ python3 -m pip install pyTelegramBotAPI
 python3 -m pip install faker
 ```
 
-4. Запускаем
+5. Запускаем
 ``` markdown
 python3 test_users_bot.py
 ```
