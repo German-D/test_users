@@ -60,4 +60,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-(Телеграм [@dolnikov](https://t.me/dolnikov))
+Герман Дольников (Телеграм [@dolnikov](https://t.me/dolnikov))
